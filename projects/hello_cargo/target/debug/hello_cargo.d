@@ -1,0 +1,1 @@
+/mnt/c/Users/rober/OneDrive/Documentos/GitHub/The-Rust-Programming-Language-Book/projects/hello_cargo/target/debug/hello_cargo: /mnt/c/Users/rober/OneDrive/Documentos/GitHub/The-Rust-Programming-Language-Book/projects/hello_cargo/src/main.rs
